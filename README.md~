@@ -1,7 +1,7 @@
 # Carrefour Test
 Carrefour Test est une application qui permet d'étudier la perfermance chez carrefour en se basant sur deux critères:
 
-- Top 1000 vente par magasin chaque jour.
+- Top 100 vente par magasin chaque jour.
 - Top 100 chiffre d'affaire par produit pendant une semaine.
 
 
